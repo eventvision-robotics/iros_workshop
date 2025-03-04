@@ -1,42 +1,51 @@
-![field robot image](images/banner_white.jpg)
+![field robot image](images/xxx.jpg)
 
 ## Important dates
 
-- Paper submission deadline: March 16, 2025, 11:59 p.m. (Anywhere on Earth)
+TODO:
+<!-- - Paper submission deadline: March 16, 2025, 11:59 p.m. (Anywhere on Earth)
 - Notification of acceptance: April 15, 2025
 - Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
-- Workshop date: May 19, 2025
+- Workshop date: May 19, 2025 -->
 
 # Context
 <div style="text-align: justify">
-Field robotics tackles the problem of developing, deploying, and evaluating autonomous mobile systems in unstructured and often dynamic environments. Typical commercial applications are in agriculture, construction, mining, and forestry. The range of physical mediums is also very diversified: in the air, on the ground, underground, on the water, and underwater. These can be located on Earth, or on other celestial bodies (e.g., planets, moons, or asteroids). As such, field robotics works under wildly diverse and radically different assumptions than other areas of robotics, which tend to have well-defined working hypotheses. Therefore, this creates its own set of challenges. This workshop will thus offer the opportunity to present work and discuss how these unique challenges can be solved.
-
-This workshop will bring together experts, researchers, and practitioners to discuss the latest advancements in field robotics. Participants will gain valuable insights into the challenges and opportunities that arise in deploying robots in diverse field scenarios, such as rugged terrains, remote locations, and hazardous environments. Practical case studies and real-world applications will be presented to showcase the successful, and not-so-successful cases of field robotics. The workshop will encourage fruitful dialogues and collaborative discussions, culminating by a panel at the end of the workshop. Attendees will leave with a comprehensive understanding of the state-of-the-art technologies, the main actors, and upcoming challenges. As major outcomes, we aim to consolidate the community around field robotics and prepare an editorial article on the current status of robotics deployed in real environments.
+Event-based cameras are bio-inspired visual sensors that mimic the transient pathway of the human visual system, offering
+key advantages (e.g., microsecond temporal resolution and high dynamic range) that hold the potential to revolutionize robot
+state estimation and image processing. Since the first commercially available event camera in 2008 and the first Workshop on
+Event-based Vision at ICRA 2017, the community has witnessed a surge in event-based/-enhanced solutions for robotics and
+computer vision. However, the community is facing a chicken-and-egg dilemma: on one hand, the high price of event cameras
+stifles the community growth; on the other hand, the absence of large-scale deployment of event-based solutions discourages
+mass production of these cameras. To this end, this workshop is dedicated to event-based vision, with a particular focus on its
+development in state estimation and image processing.
+</div>
+<br>
+<div style="text-align: justify">
+This workshop builds on the tradition of inviting pioneering figures in the community as speakers, while also serving as a bridge between international/domestic start-ups and academia. It aims to promote discussions on identifying roadblocks that hinder progress in the field and foster collaborative solutions to overcome these barriers. Besides, the first-ever Event-based SLAM Challenge will be held in this workshop. This challenge seeks to benchmark state-of-the-art algorithms, encourage innovation in event-driven/-enhanced approaches, and push the boundaries of what is achievable in real-time ultra-frame-rate state estimation for high-speed robots. As a whole, this workshop will place a strong emphasis on the reproducibility of research findings in real-world scenarios and their tangible impact on advancing robotics technology
 </div>
 <br>
 
+<!-- All invited speakers are confirmed. -->
 # Program
-All invited speakers are confirmed.
 
-| **Time**                | **Speaker**                                | **Topic/title**                                                                 |
-|---------------------|----------------------------------------|------------------------------------------------------------------------------|
-| 8:30- 8:50         | Organizers                             | Welcome and opening remarks                                                  |
-| 8:50- 9:20         | **Robin Murphy** (Texas A&M University)     | Invited talk #1 - **30 Years of Robotics for Disasters**                                                       |
-| 9:20- 10:00        | Ten emerging researchers               | Spotlight talks #1 (3 min/pers)                                               |
-| 10:00- 10:50       | -                                      | Coffee break and poster session                                               |
-| 10:50- 11:20       | **Kazuya Yoshida** (Tohoku University)     | Invited talk #2 - **Terrestrial field tests for a modular and heterogeneous AI robot system for lunar exploration**                                                       |
-| 11:20- 11:50       | **Marco Hutter** (ETH Zurich)              | Invited talk #3 - **Robot Navigation with Common Sense**                                                      |
-| 11:50- 13:10       | -                                      | Lunch                                                                        |
-| 13:10- 14:10       | **Vijay Kumar** (University of Pennsylvania) | Keynote - _Tentative title:_ **The Future of Flying Robots**                                                            |
-| 14:10- 14:40       | Panel                                  | Questions: What is the role of simulation, and data sets in field robotics? Should we keep an annual workshop or create a separate conference? Why do old laboratories stop doing field deployments? |
-| 14:40- 15:00       | Organizers                             | Result announcement for the dataset competition                               |
-| 15:00- 16:00       | -                                      | Coffee break and poster session                                               |
-| 16:00- 16:30       | **Frank Dellaert** (Georgia Institute of Technology) | Invited talk #4 - **Precision Robotics for Agriculture 2.0**                                                    |
-| 16:30- 17:00       | **Josh Marshall** (Queen’s University)     | Invited talk #5 - **Digging Deep: Robotics for Mining in the 21st Century**                                                       |
-| 17:00- 17:30       | Organizers                             | Conclusion                                                                   |
-| 18:00- 19:30       | -                              | ICRA Welcome Reception                                                                   |
+| **Time**             | **Speaker**                     | **Topic/title**                                                                 |
+|----------------------|---------------------------------|---------------------------------------------------------------------------------|
+| 8:30am-8:40am        | Organizers                     | Welcome talk - Intro of workshop                                                 |
+| 8:40am-8:55am        | SynSense                       | Industry Talk                                                                   |
+| 8:55am-9:10am        | Dvsense                        | Industry Talk                                                                   |
+| 9:10am-9:30am        | -                              | Mobile robot state estimation based on event camera                             |
+| 9:30am-9:50am        | -                              | Mobile robot state estimation based on event camera                             |
+| 9:50am-10:10am       | Jinshan Pan                    | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
+| 10:10am-10:30am      | Kuk-Jin Yoon                   | Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding |
+| 10:30am-10:50am      | Yu Lei                         | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
+| 10:50am-11:10am      | -                              | Tea Break                                                                       |
+| 11:10am-11:20am      | Organizers                     | Intro of Event-based SLAM Challenge: background, setup                         |
+| 11:20am-11:30am      | Organizers                     | Awards Ceremony                                                                 |
+| 11:30am-11:50am      | Winner                         | Event SLAM Challenge Winner Presentation                                       |
+| 11:50am-12:30pm      | Panelists                      | Panel Discussion - TBD                                                          |
+| 12:30pm              | -                              | End                                                                             |
 
-***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
+**Note**: All times are in the local time zone of IROS 2025 (Beijing).
 
 
 # Speakers  
@@ -64,13 +73,13 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/Vijay_Kumar.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/xx.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Tentative title: The Future of Flying Robots</h3>
-        <strong>Vijay Kumar</strong><br/>
-        <em>University of Pennsylvania</em>  <br/>
-        <a href="https://www.kumarrobotics.org/">Personal website</a>
+        <h3>Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions</h3>
+        <strong>Jinshan Pan</strong><br/>
+        <em> Nanjing University of Science and Technology</em>  <br/>
+        <a href="xxx/">Personal website</a>
       </div>
 </div>
 
@@ -78,126 +87,13 @@ end speaker1-->
 </div>
 <br>
 
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Robin_Murphy.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>30 Years of Robotics for Disasters</h3>
-        <strong>Robin Murphy</strong><br/>
-        <em>Texas A&M University</em>  <br/>
-        <a href="https://engineering.tamu.edu/cse/profiles/rmurphy.html">Personal website</a>
-      </div>
-</div>
 
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Kazuya_Yoshida.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Terrestrial field tests for a modular and heterogeneous AI robot system
-for lunar exploration</h3>
-        <strong>Kazuya Yoshida</strong><br/>
-        <em>Tohoku University</em>  <br/>
-        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a> <br/>
-        <a href="https://srl-moonshot.mech.tohoku.ac.jp/index.en.html">Moonshot Program</a>   
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Robot Navigation with Common Sense</h3>
-        <strong>Marco Hutter</strong><br/>
-        <em>ETH Zurich</em>  <br/>
-        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Frank_Dellaert.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Precision Robotics for Agriculture 2.0</h3>
-        <strong>Frank Dellaert</strong><br/>
-        <em>Georgia Institute of Technology</em>  <br/>
-        <a href="https://dellaert.github.io/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Joshua_Marshall.webp" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Digging Deep: Robotics for Mining in the 21st Century</h3>
-        <strong>Josh Marshall</strong><br/>
-        <em>Queen’s University</em>  <br/>
-        <a href="https://www.queensu.ca/offroad-robotics/people/joshua-marshall ">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-# Call for papers
-
-The workshop topics include, but are not limited to:
-
-- Agriculture
-- Construction
-- Forestry
-- Healthcare
-- Intelligent Transportation Systems
-- Marine Robotics
-- Mining
-- Search and rescue
-- Space exploration
-
-## Submission guidelines
-
-FR workshop accepts contributions based on the following criteria:
-
-- The submission should be from 2 to 8 pages long. The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
-- The review process is single-blind.
-- Submissions should contain a clear focus on field robotics and feature lessons learned and/or field experience reports.
-- We welcome prospective and conceptual papers as well.
-- The papers should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
-- Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
 
 # Competition
 
-This year, the field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
+TODO
+
+<!-- This year, the field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
 The competition focuses on vision-based tasks of 2D and 3D Semantic Segmentation in challenging environments like dense vegetation. 
 Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset. 
 
@@ -210,124 +106,127 @@ Please visit the competition websites for more details:
  - [GOOSE 2D Semantic Segmentation Challenge](https://tinyurl.com/goose-2d-challenge)
  - [GOOSE 3D Semantic Segmentation Challenge](https://tinyurl.com/goose-3d-challenge)
 
-Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions).
+Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions). -->
 
 # Organizers
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/organizers/yi_zhou.jpg" alt="Yi Zhou" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Yi Zhou</strong><br/>
+        <em>Hunan University</em><br/>
+        <a href="mailto:eeyzhou@hnu.edu.cn">eeyzhou@hnu.edu.cn</a><br/>
+        <a href="https://sites.google.com/view/zhouyi-joey">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;"></div>
+<br>
 
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/francois_Pomerleau.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/jianhao_jiao.jpg" alt="Jianhao Jiao" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>François Pomerleau</strong><br/>
-        <em>Université Laval</em><br/>
-        <a href="https://norlab.ulaval.ca/people/f_pomerleau/">Personal website</a>
+        <strong>Jianhao Jiao</strong><br/>
+        <em>University College London</em><br/>
+        <a href="mailto:ucacjji@ucl.ac.uk">ucacjji@ucl.ac.uk</a><br/>
+        <a href="https://gogojjh.github.io">Personal website</a>
       </div>
 </div>
 
-<div style="clear:left;">
-</div>
+<div style="clear:left;"></div>
 <br>
+
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/tim_barfoot.webp" alt="Image" width="80" height="80" />
+         src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Tim Barfoot</strong><br/>
-        <em>University of Toronto</em> <br/>
-        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personal website</a>
+        <strong>Yifu Wang</strong><br/>
+        <em>Tencent IEG</em><br/>
+        <a href="mailto:1fwang927@gmail.com">1fwang927@gmail.com</a><br/>
+        <a href="https://1fwang.github.io">Personal website</a>
       </div>
 </div>
 
-<div style="clear:left;">
-</div>
+<div style="clear:left;"></div>
 <br>
+
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/keiji_nagatani.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/boxin_shi.jpg" alt="Boxin Shi" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Keiji Nagatani</strong><br/>
-        <em>University of Tsukuba</em> <br/>
-        <a href="http://k-nagatani.org/">Personal website</a>
+        <strong>Boxin Shi</strong><br/>
+        <em>Peking University</em><br/>
+        <a href="mailto:shiboxin@pku.edu.cn">shiboxin@pku.edu.cn</a><br/>
+        <a href="https://camera.pku.edu.cn">Personal website</a>
       </div>
 </div>
 
-<div style="clear:left;">
-</div>
+<div style="clear:left;"></div>
 <br>
+
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/philippe_giguere.webp" alt="Image" width="80" height="80" />
+         src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Philippe Giguère</strong><br/>
-        <em>Université Laval</em> <br/>
-        <a href="https://norlab.ulaval.ca/people/p_giguere_fr/">Personal website</a>
+        <strong>Liyuan Pan</strong><br/>
+        <em>Beijing Institute of Technology</em><br/>
+        <a href="mailto:Liyuan.Pan@bit.edu.cn">Liyuan.Pan@bit.edu.cn</a><br/>
+        <a href="https://bitsslab.github.io/">Personal website</a>
       </div>
 </div>
 
-<div style="clear:left;">
-</div>
+<div style="clear:left;"></div>
 <br>
+
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/johann_laconte.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/laurent_kneip.jpg" alt="Laurent Kneip" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Johann Laconte</strong><br/>
-        <em>French National Research Institute for Agriculture, Food and Environment (INRAE)</em> <br/>
-        <a href="http://rleaf.mathnum.inrae.fr/people/jlaconte/">Personal website</a>
+        <strong>Laurent Kneip</strong><br/>
+        <em>ShanghaiTech University</em><br/>
+        <a href="https://mpl.sist.shanghaitech.edu.cn/">Personal website</a>
       </div>
 </div>
 
-<div style="clear:left;">
-</div>
+<div style="clear:left;"></div>
 <br>
+
 <div class="container">
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/joshua_mangelson.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/richard_hartley.jpg" alt="Richard Hartley" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Joshua Mangelson </strong><br/>
-        <em>Brigham Young University</em> <br/>
-        <a href="https://ece.byu.edu/directory/josh-mangelson">Personal website</a>
+        <strong>Richard Hartley</strong><br/>
+        <em>Australian National University</em><br/>
+        <a href="mailto:Richard.Hartley@anu.edu.au">Richard.Hartley@anu.edu.au</a><br/>
+        <a href="https://comp.anu.edu.au/people/richard-hartley/">Personal website</a>
       </div>
 </div>
 
-<div style="clear:left;">
-</div>
-<br>
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/sven_lilge.jpg" alt="Image" width="80" height="80" />
-    </div>
-      <div class="text">
-        <strong>Sven Lilge </strong><br/>
-        <em>University of Toronto</em> <br/>
-        <a href="https://svenlilge.github.io/">Personal website</a>
-      </div>
-</div>
-<br>
 
 
-
-
-## Competition Organizers
+<!-- ## Competition Organizers
 <div style="text-align: center;">
   <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
     <tr>
@@ -356,4 +255,30 @@ Any questions about the competition can be directed at [field-robotics-competiti
       </td>
     </tr>
   </table>
-</div>
+</div> -->
+
+
+<!-- # Call for papers
+
+The workshop topics include, but are not limited to:
+
+- Agriculture
+- Construction
+- Forestry
+- Healthcare
+- Intelligent Transportation Systems
+- Marine Robotics
+- Mining
+- Search and rescue
+- Space exploration
+
+## Submission guidelines
+
+FR workshop accepts contributions based on the following criteria:
+
+- The submission should be from 2 to 8 pages long. The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
+- The review process is single-blind.
+- Submissions should contain a clear focus on field robotics and feature lessons learned and/or field experience reports.
+- We welcome prospective and conceptual papers as well.
+- The papers should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
+- Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop. -->

@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Workshop on Field Robotics - ICRA 2025
+title: Workshop on Event-Based Vision for Advanced State Estimation and Image Processing - IROS 
 show_downloads: false
-logo: /images/ICRA_logo.webp
+logo: /images/IROS2025_logo.png
 github:
   is_project_page: false
