@@ -1,12 +1,11 @@
-![field robot image](images/xxx.jpg)
+## Location
+
+Hangzhou International Expo Center
 
 ## Important dates
 
-TODO:
-<!-- - Paper submission deadline: March 16, 2025, 11:59 p.m. (Anywhere on Earth)
-- Notification of acceptance: April 15, 2025
-- Camera-ready submission: May 1, 11:59 p.m. (Anywhere on Earth)
-- Workshop date: May 19, 2025 -->
+* Workshop date: October 20, 2025
+
 
 # Context
 <div style="text-align: justify">
@@ -73,14 +72,40 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/xx.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/jspan_photo.jpg" alt="Image" width="120" />
     </div>
-      <div class="text">
-        <h3>Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions</h3>
-        <strong>Jinshan Pan</strong><br/>
-        <em> Nanjing University of Science and Technology</em>  <br/>
-        <a href="xxx/">Personal website</a>
-      </div>
+    <div class="text">
+      <h3>Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions</h3>
+      <strong>Jinshan Pan</strong><br/>
+      <em>Nanjing University of Science and Technology</em>  <br/>
+      <a href="https://jspan.github.io/">Personal website</a>
+    </div>
+    </br>
+    <details>
+      <summary>Abstact</summary>
+      <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/tobias_fischer.webp" alt="Image" width="120" />
+    </div>      
+    <div class="text">
+      <h3>Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks</h3>
+      <strong>Tobias Fischer</strong><br/>
+      <em>Queensland University of Technology</em> <br/>
+      <a href="https://www.tobiasfischer.info/">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>Knowing your location has long been fundamental to robotics and has driven major technological advances from industry to academia. Despite significant research advances, critical challenges to enduring deployment remain, including deploying these advances on resource-constrained robots and providing robust localisation capabilities in GPS-denied challenging environments. This talk explores Visual Place Recognition (VPR), which is the ability to recognise previously visited locations using only visual data. I will demonstrate how energy-efficient neuromorphic approaches using event-based cameras and spiking neural networks can provide low-power edge devices with location information with superior energy efficiency, adaptability, and data efficiency.</p>
+    </details>    
 </div>
 
 <div style="clear:left;">
@@ -89,9 +114,9 @@ end speaker1-->
 
 
 
-# Competition
+<!-- # Competition -->
 
-TODO
+<!-- TODO -->
 
 <!-- This year, the field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
 The competition focuses on vision-based tasks of 2D and 3D Semantic Segmentation in challenging environments like dense vegetation. 
@@ -113,12 +138,12 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/yi_zhou.jpg" alt="Yi Zhou" width="80" height="80" />
+         src="images/organizers/yizhou.jpg" alt="Yi Zhou" width="80" />
     </div>
       <div class="text">
         <strong>Yi Zhou</strong><br/>
         <em>Hunan University</em><br/>
-        <a href="mailto:eeyzhou@hnu.edu.cn">eeyzhou@hnu.edu.cn</a><br/>
+        <!-- <a href="mailto:eeyzhou@hnu.edu.cn">eeyzhou@hnu.edu.cn</a><br/> -->
         <a href="https://sites.google.com/view/zhouyi-joey">Personal website</a>
       </div>
 </div>
@@ -130,12 +155,12 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/jianhao_jiao.jpg" alt="Jianhao Jiao" width="80" height="80" />
+         src="images/organizers/jianhao_jiao.jpeg" alt="Jianhao Jiao" width="80" height="85"/>
     </div>
       <div class="text">
         <strong>Jianhao Jiao</strong><br/>
         <em>University College London</em><br/>
-        <a href="mailto:ucacjji@ucl.ac.uk">ucacjji@ucl.ac.uk</a><br/>
+        <!-- <a href="mailto:ucacjji@ucl.ac.uk">ucacjji@ucl.ac.uk</a><br/> -->
         <a href="https://gogojjh.github.io">Personal website</a>
       </div>
 </div>
@@ -147,12 +172,12 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" width="80" height="80" />
+         src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" width="80"/>
     </div>
       <div class="text">
         <strong>Yifu Wang</strong><br/>
-        <em>Tencent IEG</em><br/>
-        <a href="mailto:1fwang927@gmail.com">1fwang927@gmail.com</a><br/>
+        <em>Vertex Lab</em><br/>
+        <!-- <a href="mailto:1fwang927@gmail.com">1fwang927@gmail.com</a><br/> -->
         <a href="https://1fwang.github.io">Personal website</a>
       </div>
 </div>
@@ -164,12 +189,12 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/boxin_shi.jpg" alt="Boxin Shi" width="80" height="80" />
+         src="images/organizers/boxin.jpg" alt="Boxin Shi" width="80"/>
     </div>
       <div class="text">
         <strong>Boxin Shi</strong><br/>
         <em>Peking University</em><br/>
-        <a href="mailto:shiboxin@pku.edu.cn">shiboxin@pku.edu.cn</a><br/>
+        <!-- <a href="mailto:shiboxin@pku.edu.cn">shiboxin@pku.edu.cn</a><br/> -->
         <a href="https://camera.pku.edu.cn">Personal website</a>
       </div>
 </div>
@@ -181,12 +206,12 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" width="80" height="80" />
+         src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" width="80"/>
     </div>
       <div class="text">
         <strong>Liyuan Pan</strong><br/>
         <em>Beijing Institute of Technology</em><br/>
-        <a href="mailto:Liyuan.Pan@bit.edu.cn">Liyuan.Pan@bit.edu.cn</a><br/>
+        <!-- <a href="mailto:Liyuan.Pan@bit.edu.cn">Liyuan.Pan@bit.edu.cn</a><br/> -->
         <a href="https://bitsslab.github.io/">Personal website</a>
       </div>
 </div>
@@ -198,7 +223,7 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/laurent_kneip.jpg" alt="Laurent Kneip" width="80" height="80" />
+         src="images/organizers/laurent_kneip.jpeg" alt="Laurent Kneip" width="80"/>
     </div>
       <div class="text">
         <strong>Laurent Kneip</strong><br/>
@@ -214,18 +239,18 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/richard_hartley.jpg" alt="Richard Hartley" width="80" height="80" />
+         src="images/organizers/richard_hartley.jpeg" alt="Richard Hartley" width="80"/>
     </div>
       <div class="text">
         <strong>Richard Hartley</strong><br/>
         <em>Australian National University</em><br/>
-        <a href="mailto:Richard.Hartley@anu.edu.au">Richard.Hartley@anu.edu.au</a><br/>
+        <!-- <a href="mailto:Richard.Hartley@anu.edu.au">Richard.Hartley@anu.edu.au</a><br/> -->
         <a href="https://comp.anu.edu.au/people/richard-hartley/">Personal website</a>
       </div>
 </div>
 
-
-
+<!-- ## Competition Organizers -->
+<!-- TBD -->
 <!-- ## Competition Organizers
 <div style="text-align: center;">
   <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
