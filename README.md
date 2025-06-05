@@ -4,7 +4,7 @@ Hangzhou International Expo Center
 
 ## Important dates
 
-* Workshop date: October 20, 2025
+* Workshop date: october 20, 2025
 
 
 # Context
@@ -80,7 +80,6 @@ end speaker1-->
       <em>Nanjing University of Science and Technology</em>  <br/>
       <a href="https://jspan.github.io/">Personal website</a>
     </div>
-    </br>
     <details>
       <summary>Abstact</summary>
       <p>TBD</p>
