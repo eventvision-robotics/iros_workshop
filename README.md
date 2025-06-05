@@ -4,7 +4,7 @@ Hangzhou International Expo Center
 
 ## Important dates
 
-* Workshop date: october 20, 2025
+* Workshop date: October 20, 2025
 
 
 # Context
