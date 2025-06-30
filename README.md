@@ -334,9 +334,9 @@ Any questions about the competition can be directed at <a href="mailto:junkainiu
 
 |  | **Email** | **Responsibility** |
 |----------|-----------|-------------------|
-| Prof.Yi Zhou | [eeyzhou@hnu.edu.cn](mailto:eeyzhou@hnu.edu.cn) | General workshop inquiries |
-| Dr.Jianhao Jiao | [jiaojh1994@gmail.com](mailto:jiaojh1994@gmail.com) | Website and advertising-related questions |
-| Dr.Yifu Wang | [usasuper@126.com](mailto:usasuper@126.com) | Speaker information and program details |
+| Prof.Yi Zhou | [eeyzhou(at)hnu(dot)edu(dot)cn](mailto:eeyzhou@hnu.edu.cn) | General workshop inquiries |
+| Dr.Jianhao Jiao | [jiaojh1994(at))gmail(dot)com](mailto:jiaojh1994@gmail.com) | Website and advertising-related questions |
+| Dr.Yifu Wang | [usasuper(at)126(dot)com](mailto:usasuper@126.com) | Speaker information and program details |
 
 
 <!-- TBD -->
