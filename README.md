@@ -1,9 +1,13 @@
-## Location
+# Location
 
 Hangzhou International Expo Center
 
-## Important dates
+# Important Dates
 
+* [Event SLAM Competition](https://nail-hnu.github.io/EvSLAM/index.html)
+  * Start Time: July 1, 2025
+  * End Time: September 30, 2025
+  * Winners announcement: October 1, 2025
 * Workshop date: October 20, 2025
 
 
@@ -27,22 +31,23 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 <!-- All invited speakers are confirmed. -->
 # Program
 
-| **Time**             | **Speaker**                     | **Topic/title**                                                                 |
-|----------------------|---------------------------------|---------------------------------------------------------------------------------|
-| 8:30am-8:40am        | Organizers                     | Welcome talk - Intro of workshop                                                 |
-| 8:40am-8:55am        | SynSense                       | Industry Talk                                                                   |
-| 8:55am-9:10am        | Dvsense                        | Industry Talk                                                                   |
-| 9:10am-9:30am        | -                              | Mobile robot state estimation based on event camera                             |
-| 9:30am-9:50am        | -                              | Mobile robot state estimation based on event camera                             |
-| 9:50am-10:10am       | Jinshan Pan                    | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
-| 10:10am-10:30am      | Kuk-Jin Yoon                   | Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding |
-| 10:30am-10:50am      | Yu Lei                         | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
-| 10:50am-11:10am      | -                              | Tea Break                                                                       |
-| 11:10am-11:20am      | Organizers                     | Intro of Event-based SLAM Challenge: background, setup                         |
-| 11:20am-11:30am      | Organizers                     | Awards Ceremony                                                                 |
-| 11:30am-11:50am      | Winner                         | Event SLAM Challenge Winner Presentation                                       |
-| 11:50am-12:30pm      | Panelists                      | Panel Discussion - TBD                                                          |
-| 12:30pm              | -                              | End                                                                             |
+| **Time**             | **Speaker**                         | **Topic/Title**                                                                 |
+|----------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| 13:30pm–13:40pm       | Organizers                          | Welcome Talk – Introduction of the Workshop                                     |
+| 13:40pm–14:00pm       | Tobias Fischer                     | *Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks* |
+| 14:00pm–14:20pm       | Yulia Sandamirskaya                 | *Neuromorphic Computing: From Theory to Applications*                           |
+| 14:20pm–14:40pm       | Jinshan Pan                         | *Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions* |
+| 14:40pm–15:00pm       | Kuk-Jin Yoon                        | *Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding* |
+| 15:00pm–15:20pm       | Lei Yu                              | *Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions* |
+| 15:20pm–15:40pm       | -                                   | Tea Break                                                                       |
+| 15:40pm–15:55pm       | Ning Qiao (CEO of SynSense)         | *Neuromorphic Sensing and Computing Empowering Industrial Intelligence*         |
+| 15:55pm–16:10pm       | Min Liu (CEO of Dvsense)            | *Revolutionizing Vision with Event Cameras: Insights from an Industry Startup* |
+| 16:10pm–16:20pm       | Organizers                          | Intro of Event-based SLAM Challenge: background, setup                          |
+| 16:20pm–16:30pm       | Organizers                          | Awards Ceremony                                                                 |
+| 16:30pm–16:50pm       | Winner                              | Event SLAM Challenge Winner Presentation                                        |
+| 16:50pm–17:30pm       | Panelists                           | *Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production* |
+| 17:30pm              | -                                   | End                                                                             |
+
 
 **Note**: All times are in the local time zone of IROS 2025 (Beijing).
 
@@ -72,12 +77,51 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/jspan_photo.jpg" alt="Image" width="120" />
+         src="images/speakers/tobias_fischer.webp" alt="Image" width="140" />
+    </div>      
+    <div class="text">
+      <h3>Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks</h3>
+      <strong>Tobias Fischer, Queensland University of Technology</strong><br/>
+      <a href="https://www.tobiasfischer.info/">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>Knowing your location has long been fundamental to robotics and has driven major technological advances from industry to academia. Despite significant research advances, critical challenges to enduring deployment remain, including deploying these advances on resource-constrained robots and providing robust localisation capabilities in GPS-denied challenging environments. This talk explores Visual Place Recognition (VPR), which is the ability to recognise previously visited locations using only visual data. I will demonstrate how energy-efficient neuromorphic approaches using event-based cameras and spiking neural networks can provide low-power edge devices with location information with superior energy efficiency, adaptability, and data efficiency.</p>
+    </details>    
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/yulia.png" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>Neuromorphic Computing: From Theory to Applications</h3>
+      <strong>Yulia Sandamirskaya, Zurich University of Applied Sciences</strong><br/>
+      <a href="https://sandamirskaya.eu/">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/jspan_photo.jpg" alt="Image" width="140" />
     </div>
     <div class="text">
       <h3>Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions</h3>
-      <strong>Jinshan Pan</strong><br/>
-      <em>Nanjing University of Science and Technology</em>  <br/>
+      <strong>Jinshan Pan, Nanjing University of Science and Technology</strong><br/>
       <a href="https://jspan.github.io/">Personal website</a>
     </div>
     <details>
@@ -93,17 +137,76 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/tobias_fischer.webp" alt="Image" width="120" />
-    </div>      
+         src="images/speakers/kukjin_yoon.jpeg" alt="Image" width="140" />
+    </div>
     <div class="text">
-      <h3>Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks</h3>
-      <strong>Tobias Fischer</strong><br/>
-      <em>Queensland University of Technology</em> <br/>
-      <a href="https://www.tobiasfischer.info/">Personal website</a>
+      <h3>Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding</h3>
+      <strong>Kuk-Jin Yoon, Korea Advanced Institute of Science & Technology (KAIST)</strong><br/>
+      <a href="http://vi.kaist.ac.kr/">Personal website</a>
     </div>
     <details>
       <summary>Abstact</summary>
-      <p>Knowing your location has long been fundamental to robotics and has driven major technological advances from industry to academia. Despite significant research advances, critical challenges to enduring deployment remain, including deploying these advances on resource-constrained robots and providing robust localisation capabilities in GPS-denied challenging environments. This talk explores Visual Place Recognition (VPR), which is the ability to recognise previously visited locations using only visual data. I will demonstrate how energy-efficient neuromorphic approaches using event-based cameras and spiking neural networks can provide low-power edge devices with location information with superior energy efficiency, adaptability, and data efficiency.</p>
+      <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/lei_yu.jpeg" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions</h3>
+      <strong>Lei Yu, Wuhan University</strong><br/>
+      <a href="http://dvs-whu.cn/">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/ning_qiao.jpeg" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>Neuromorphic Sensing and Computing Empowering Industrial Intelligence</h3>
+      <strong>Ning Qiao, CEO of SynSense</strong><br/>
+      <a href="https://scholar.google.com/citations?user=e7FIdOMAAAAJ&hl=en">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/min_liu.jpeg" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>Revolutionizing Vision with Event Cameras: Insights from an Industry Startup</h3>
+      <strong>Min Liu, CEO of Dvsense</strong><br/>
+      <a href="https://scholar.google.com/citations?user=9YYkL8kAAAAJ&hl=en">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>TBD</p>
     </details>    
 </div>
 
@@ -113,142 +216,134 @@ end speaker1-->
 
 
 
-<!-- # Competition -->
+# Event SLAM Competition
 
-<!-- TODO -->
+We introduce a benchmarking framework for the task of **event-based state estimation**, featuring:
 
-<!-- This year, the field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
-The competition focuses on vision-based tasks of 2D and 3D Semantic Segmentation in challenging environments like dense vegetation. 
-Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset. 
+* **A novel dataset** that complements missing characteristics in existing ones
+* **A novel evaluation metric** that can fairly measure the operation boundaries of event-based solutions
 
-The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
-The competitions are open to all field robotics researchers and practitioners.
+This framework is instantiated through an **IROS 2025 Workshop Competition** that benchmarks state-of-the-art methods, yielding insights into optimal architectures and persistent challenges. 
 
-Please visit the competition websites for more details:
+Please visit the competition websites for more details: [Overview](https://nail-hnu.github.io/EvSLAM/index.html) and [Submission](https://www.codabench.org/competitions/9407/)
 
-**Vision Tracks:**
- - [GOOSE 2D Semantic Segmentation Challenge](https://tinyurl.com/goose-2d-challenge)
- - [GOOSE 3D Semantic Segmentation Challenge](https://tinyurl.com/goose-3d-challenge)
+Any questions about the competition can be directed at <a href="mailto:junkainiu@hnu.edu.cn">junkainiu@hnu.edu.cn</a>.
 
-Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions). -->
-
-# Organizers
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/yizhou.jpg" alt="Yi Zhou" width="80" />
-    </div>
-      <div class="text">
-        <strong>Yi Zhou</strong><br/>
-        <em>Hunan University</em><br/>
-        <!-- <a href="mailto:eeyzhou@hnu.edu.cn">eeyzhou@hnu.edu.cn</a><br/> -->
+# Workshop Organizers
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
+    <tr>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/yizhou.jpg" alt="Yi Zhou" style="max-width: auto; height: 120px;"><br>
+        <strong>Yi Zhou</strong><br>
+        <em>Hunan University</em><br>
         <a href="https://sites.google.com/view/zhouyi-joey">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;"></div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/jianhao_jiao.jpeg" alt="Jianhao Jiao" width="80" height="85"/>
-    </div>
-      <div class="text">
-        <strong>Jianhao Jiao</strong><br/>
-        <em>University College London</em><br/>
-        <!-- <a href="mailto:ucacjji@ucl.ac.uk">ucacjji@ucl.ac.uk</a><br/> -->
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/jianhao_jiao.jpeg" alt="Jianhao Jiao" style="max-width: auto; height: 120px;"><br>
+        <strong>Jianhao Jiao</strong><br>
+        <em>University College London</em><br>
         <a href="https://gogojjh.github.io">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;"></div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" width="80"/>
-    </div>
-      <div class="text">
-        <strong>Yifu Wang</strong><br/>
-        <em>Vertex Lab</em><br/>
-        <!-- <a href="mailto:1fwang927@gmail.com">1fwang927@gmail.com</a><br/> -->
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" style="max-width: auto; height: 120px;"><br>
+        <strong>Yifu Wang</strong><br>
+        <em>Vertex Lab</em><br>
         <a href="https://1fwang.github.io">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;"></div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/boxin.jpg" alt="Boxin Shi" width="80"/>
-    </div>
-      <div class="text">
-        <strong>Boxin Shi</strong><br/>
-        <em>Peking University</em><br/>
-        <!-- <a href="mailto:shiboxin@pku.edu.cn">shiboxin@pku.edu.cn</a><br/> -->
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/boxin.jpg" alt="Boxin Shi" style="max-width: auto; height: 120px;"><br>
+        <strong>Boxin Shi</strong><br>
+        <em>Peking University</em><br>
         <a href="https://camera.pku.edu.cn">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;"></div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" width="80"/>
-    </div>
-      <div class="text">
-        <strong>Liyuan Pan</strong><br/>
-        <em>Beijing Institute of Technology</em><br/>
-        <!-- <a href="mailto:Liyuan.Pan@bit.edu.cn">Liyuan.Pan@bit.edu.cn</a><br/> -->
+      </td>
+    </tr>
+  </table>
+  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
+    <tr>
+      <td style="width: 200px; vertical-align: top; height: 140px; border: none; padding: 5px;">
+        <img src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" style="max-width: auto; height: 120px;"><br>
+        <strong>Liyuan Pan</strong><br>
+        <em>Beijing Institute of Technology</em><br>
         <a href="https://bitsslab.github.io/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;"></div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/laurent_kneip.jpeg" alt="Laurent Kneip" width="80"/>
-    </div>
-      <div class="text">
-        <strong>Laurent Kneip</strong><br/>
-        <em>ShanghaiTech University</em><br/>
+      </td>
+      <td style="width: 200px; vertical-align: top; height: 140px; border: none; padding: 5px;">
+        <img src="images/organizers/laurent_kneip.jpeg" alt="Laurent Kneip" style="max-width: auto; height: 120px;"><br>
+        <strong>Laurent Kneip</strong><br>
+        <em>ShanghaiTech University</em><br>
         <a href="https://mpl.sist.shanghaitech.edu.cn/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;"></div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/richard_hartley.jpeg" alt="Richard Hartley" width="80"/>
-    </div>
-      <div class="text">
-        <strong>Richard Hartley</strong><br/>
-        <em>Australian National University</em><br/>
-        <!-- <a href="mailto:Richard.Hartley@anu.edu.au">Richard.Hartley@anu.edu.au</a><br/> -->
+      </td>
+      <td style="width: 200px; vertical-align: top; height: 140px; border: none; padding: 5px;">
+        <img src="images/organizers/richard_hartley.jpeg" alt="Richard Hartley" style="max-width: auto; height: 120px;"><br>
+        <strong>Richard Hartley</strong><br>
+        <em>Australian National University</em><br>
         <a href="https://comp.anu.edu.au/people/richard-hartley/">Personal website</a>
-      </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- ## Competition Organizers -->
+
+# Challenge Organizers
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
+    <tr>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/njk.jpg" alt="Junkai Niu" style="max-width: auto; height: 120px;"><br>
+        <strong>Junkai Niu</strong><br>
+        <em>HNU, NAIL Lab</em><br>
+        <a href="https://scholar.google.com/citations?user=EpIxnIEAAAAJ&hl=zh-CN">Personal website</a>
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/zs.jpg" alt="Sheng Zhong" style="max-width: auto; height: 120px;"><br>
+        <strong>Sheng Zhong</strong><br>
+        <em>HNU, NAIL Lab</em><br>
+        <a href="https://nail-hnu.github.io/EvSLAM/images/index/zs.jpg">Personal website</a>
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/sunkaizhen.jpg" alt="Kaizhen Sun" style="max-width: auto; height: 120px;"><br>
+        <strong>Kaizhen Sun</strong><br>
+        <em>HNU, NAIL Lab</em><br>
+        <a href="https://scholar.google.com/citations?user=ZvVrufAAAAAJ&hl=zh-CN&oi=ao">Personal website</a>
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/yizhou.jpg" alt="Yi Zhou" style="max-width: auto; height: 120px;"><br>
+        <strong>Yi Zhou</strong><br>
+        <em>HNU, NAIL Lab</em><br>
+        <a href="https://sites.google.com/view/zhouyi-joey">Personal website</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
+    <tr>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/David.png" alt="Davide Scaramuzza" style="max-width: auto; height: 120px;"><br>
+        <strong>Davide Scaramuzza (Advisory Board)</strong><br>
+        <em>UZH, RPG Lab</em><br>
+        <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Personal website</a>
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/organizers/gg.jpg" alt="Guillermo Gallego" style="max-width: auto; height: 120px;"><br>
+        <strong>Guillermo Gallego (Advisory Board)</strong><br>
+        <em>TU Berlin, Robotic Interactive Perception Lab</em><br>
+        <a href="https://www.digital-future.berlin/en/about-us/professors/prof-dr-guillermo-gallego/">Personal website</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+# Contact
+For general workshop inquiries, please contact **Yi Zhou** at [eeyzhou@hnu.edu.cn](mailto:eeyzhou@hnu.edu.cn).
+
+For website and advertising-related questions, please contact **Jianhao Jiao** at [jiaojh1994@gmail.com](mailto:jiaojh1994@gmail.com).
+
+For speaker information and program details, please contact **Yifu Wang** at [usasuper@126.com](mailto:usasuper@126.com).
+
+
+
 <!-- TBD -->
 <!-- ## Competition Organizers
 <div style="text-align: center;">
