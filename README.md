@@ -234,47 +234,45 @@ Any questions about the competition can be directed at <a href="mailto:junkainiu
   <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
     <tr>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/yizhou.jpg" alt="Yi Zhou" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/yizhou.jpg" alt="Yi Zhou" style="max-width: auto; height: 100px;"><br>
         <strong>Yi Zhou</strong><br>
         <em>Hunan University</em><br>
         <a href="https://sites.google.com/view/zhouyi-joey">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/jianhao_jiao.jpeg" alt="Jianhao Jiao" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/jianhao_jiao.jpeg" alt="Jianhao Jiao" style="max-width: auto; height: 100px;"><br>
         <strong>Jianhao Jiao</strong><br>
-        <em>University College London</em><br>
+        <em>UCL</em><br>
         <a href="https://gogojjh.github.io">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/yifu_wang.jpg" alt="Yifu Wang" style="max-width: auto; height: 100px;"><br>
         <strong>Yifu Wang</strong><br>
         <em>Vertex Lab</em><br>
         <a href="https://1fwang.github.io">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/boxin.jpg" alt="Boxin Shi" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/boxin.jpg" alt="Boxin Shi" style="max-width: auto; height: 100px;"><br>
         <strong>Boxin Shi</strong><br>
         <em>Peking University</em><br>
         <a href="https://camera.pku.edu.cn">Personal website</a>
       </td>
     </tr>
-  </table>
-  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
     <tr>
       <td style="width: 200px; vertical-align: top; height: 140px; border: none; padding: 5px;">
-        <img src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/liyuan_pan.jpg" alt="Liyuan Pan" style="max-width: auto; height: 100px;"><br>
         <strong>Liyuan Pan</strong><br>
         <em>Beijing Institute of Technology</em><br>
         <a href="https://bitsslab.github.io/">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: 140px; border: none; padding: 5px;">
-        <img src="images/organizers/laurent_kneip.jpeg" alt="Laurent Kneip" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/laurent_kneip.jpeg" alt="Laurent Kneip" style="max-width: auto; height: 100px;"><br>
         <strong>Laurent Kneip</strong><br>
         <em>ShanghaiTech University</em><br>
         <a href="https://mpl.sist.shanghaitech.edu.cn/">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: 140px; border: none; padding: 5px;">
-        <img src="images/organizers/richard_hartley.jpeg" alt="Richard Hartley" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/richard_hartley.jpeg" alt="Richard Hartley" style="max-width: auto; height: 100px;"><br>
         <strong>Richard Hartley</strong><br>
         <em>Australian National University</em><br>
         <a href="https://comp.anu.edu.au/people/richard-hartley/">Personal website</a>
@@ -289,45 +287,42 @@ Any questions about the competition can be directed at <a href="mailto:junkainiu
   <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
     <tr>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/njk.jpg" alt="Junkai Niu" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/njk.jpg" alt="Junkai Niu" style="max-width: auto; height: 100px;"><br>
         <strong>Junkai Niu</strong><br>
         <em>HNU, NAIL Lab</em><br>
         <a href="https://scholar.google.com/citations?user=EpIxnIEAAAAJ&hl=zh-CN">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/zs.jpg" alt="Sheng Zhong" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/zs.jpg" alt="Sheng Zhong" style="max-width: auto; height: 100px;"><br>
         <strong>Sheng Zhong</strong><br>
         <em>HNU, NAIL Lab</em><br>
         <a href="https://nail-hnu.github.io/EvSLAM/images/index/zs.jpg">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/sunkaizhen.jpg" alt="Kaizhen Sun" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/sunkaizhen.jpg" alt="Kaizhen Sun" style="max-width: auto; height: 100px;"><br>
         <strong>Kaizhen Sun</strong><br>
         <em>HNU, NAIL Lab</em><br>
         <a href="https://scholar.google.com/citations?user=ZvVrufAAAAAJ&hl=zh-CN&oi=ao">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/yizhou.jpg" alt="Yi Zhou" style="max-width: auto; height: 120px;"><br>
+        <img src="images/organizers/yizhou.jpg" alt="Yi Zhou" style="max-width: auto; height: 100px;"><br>
         <strong>Yi Zhou</strong><br>
         <em>HNU, NAIL Lab</em><br>
         <a href="https://sites.google.com/view/zhouyi-joey">Personal website</a>
       </td>
     </tr>
-  </table>
-</div>
-
-<div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
     <tr>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/David.png" alt="Davide Scaramuzza" style="max-width: auto; height: 120px;"><br>
-        <strong>Davide Scaramuzza (Advisory Board)</strong><br>
+        <img src="images/organizers/David.png" alt="Davide Scaramuzza" style="max-width: auto; height: 100px;"><br>
+        <strong>Davide Scaramuzza</strong><br>
+        <strong>(Advisory Board)</strong><br>
         <em>UZH, RPG Lab</em><br>
         <a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Personal website</a>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/organizers/gg.jpg" alt="Guillermo Gallego" style="max-width: auto; height: 120px;"><br>
-        <strong>Guillermo Gallego (Advisory Board)</strong><br>
+        <img src="images/organizers/gg.jpg" alt="Guillermo Gallego" style="max-width: auto; height: 100px;"><br>
+        <strong>Guillermo Gallego</strong><br>
+        <strong>(Advisory Board)</strong><br>
         <em>TU Berlin, Robotic Interactive Perception Lab</em><br>
         <a href="https://www.digital-future.berlin/en/about-us/professors/prof-dr-guillermo-gallego/">Personal website</a>
       </td>
@@ -336,12 +331,12 @@ Any questions about the competition can be directed at <a href="mailto:junkainiu
 </div>
 
 # Contact
-For general workshop inquiries, please contact **Yi Zhou** at [eeyzhou@hnu.edu.cn](mailto:eeyzhou@hnu.edu.cn).
 
-For website and advertising-related questions, please contact **Jianhao Jiao** at [jiaojh1994@gmail.com](mailto:jiaojh1994@gmail.com).
-
-For speaker information and program details, please contact **Yifu Wang** at [usasuper@126.com](mailto:usasuper@126.com).
-
+|  | **Email** | **Responsibility** |
+|----------|-----------|-------------------|
+| Prof.Yi Zhou | [eeyzhou@hnu.edu.cn](mailto:eeyzhou@hnu.edu.cn) | General workshop inquiries |
+| Dr.Jianhao Jiao | [jiaojh1994@gmail.com](mailto:jiaojh1994@gmail.com) | Website and advertising-related questions |
+| Dr.Yifu Wang | [usasuper@126.com](mailto:usasuper@126.com) | Speaker information and program details |
 
 
 <!-- TBD -->
