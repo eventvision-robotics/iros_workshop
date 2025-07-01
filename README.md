@@ -1,10 +1,10 @@
 # Location
 
-Hangzhou International Expo Center
+Hangzhou International Expo Center, Room 301
 
 # Important Dates
 
-* [Event SLAM Competition](https://nail-hnu.github.io/EvSLAM/index.html)
+* [Event SLAM Challenge](https://nail-hnu.github.io/EvSLAM/index.html)
   * Start Time: July 1, 2025
   * End Time: September 30, 2025
   * Winners announcement: October 1, 2025
@@ -31,25 +31,26 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 <!-- All invited speakers are confirmed. -->
 # Program
 
-| **Time**             | **Speaker**                         | **Topic/Title**                                                                 |
-|----------------------|--------------------------------------|---------------------------------------------------------------------------------|
-| 13:30pm–13:40pm       | Organizers                          | Welcome Talk – Introduction of the Workshop                                     |
-| 13:40pm–14:00pm       | Tobias Fischer                     | *Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks* |
-| 14:00pm–14:20pm       | Yulia Sandamirskaya                 | *Neuromorphic Computing: From Theory to Applications*                           |
-| 14:20pm–14:40pm       | Jinshan Pan                         | *Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions* |
-| 14:40pm–15:00pm       | Kuk-Jin Yoon                        | *Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding* |
-| 15:00pm–15:20pm       | Lei Yu                              | *Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions* |
-| 15:20pm–15:40pm       | -                                   | Tea Break                                                                       |
-| 15:40pm–15:55pm       | Ning Qiao (CEO of SynSense)         | *Neuromorphic Sensing and Computing Empowering Industrial Intelligence*         |
-| 15:55pm–16:10pm       | Min Liu (CEO of Dvsense)            | *Revolutionizing Vision with Event Cameras: Insights from an Industry Startup* |
-| 16:10pm–16:20pm       | Organizers                          | Intro of Event-based SLAM Challenge: background, setup                          |
-| 16:20pm–16:30pm       | Organizers                          | Awards Ceremony                                                                 |
-| 16:30pm–16:50pm       | Winner                              | Event SLAM Challenge Winner Presentation                                        |
-| 16:50pm–17:30pm       | Panelists                           | *Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production* |
-| 17:30pm              | -                                   | End                                                                             |
-
+| **Time**             | **Speaker**                                               | **Topic/Title**                                                                                             |
+|----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 13:30pm–13:40pm      | Organizers                                                | Welcome Talk – Introduction of the Workshop                                                                 |
+| 13:40pm–14:00pm      | Tobias Fischer                                            | *Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks*                     |
+| 14:00pm–14:20pm      | Yulia Sandamirskaya                                       | *Neuromorphic Computing: From Theory to Applications*                                                       |
+| 14:20pm–14:40pm      | Jinshan Pan                                               | *Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions*             |
+| 14:40pm–15:00pm      | Kuk-Jin Yoon                                              | *Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding* |
+| 15:00pm–15:20pm      | -                                                         | Tea Break                                                                                                   |
+| 15:20pm–15:40pm      | Yu Lei                                                    | *Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions* |
+| 15:40pm–16:00pm      | Yuchao Dai                                                | *Event Camera Vision: Motion Perception and Generation*                                                     |
+| 16:00pm–16:15pm      | Ning Qiao (CEO of SynSense)                               | *Neuromorphic Sensing and Computing Empowering Industrial Intelligence*                                     |
+| 16:15pm–16:30pm      | Min Liu (CEO of Dvsense)                                  | *Revolutionizing Robotic Vision with Event Cameras: Insights from an Industry Startup*                      |
+| 16:30pm–16:40pm      | Organizers                                                | Intro of Event-based SLAM Challenge: Background, Setup                                                      |
+| 16:40pm–16:45pm      | Organizers                                                | Awards Ceremony                                                                                              |
+| 16:45pm–17:00pm      | Winner                                                    | Event SLAM Challenge Winner Presentation                                                                    |
+| 17:00pm–17:30pm      | Panelists                                                 | *Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production*      |
+| 17:30pm              | -                                                         | End                                                                                                         |
 
 **Note**: All times are in the local time zone of IROS 2025 (Beijing).
+
 
 
 # Speakers  
@@ -177,6 +178,26 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
+         src="images/speakers/yuchao_dai.jpg" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>Event Camera Vision: Motion Perception and Generation</h3>
+      <strong>Yuchao Dai, Northwestern Polytechnical University</strong><br/>
+      <a href="https://sites.google.com/site/daiyuchao/Home?authuser=0/">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
          src="images/speakers/ning_qiao.jpeg" alt="Image" width="140" />
     </div>
     <div class="text">
@@ -216,18 +237,18 @@ end speaker1-->
 
 
 
-# Event SLAM Competition
+# Event SLAM Challenge
 
 We introduce a benchmarking framework for the task of **event-based state estimation**, featuring:
 
 * **A novel dataset** that complements missing characteristics in existing ones
 * **A novel evaluation metric** that can fairly measure the operation boundaries of event-based solutions
 
-This framework is instantiated through an **IROS 2025 Workshop Competition** that benchmarks state-of-the-art methods, yielding insights into optimal architectures and persistent challenges. 
+This framework is instantiated through an **IROS 2025 Workshop Challenge** that benchmarks state-of-the-art methods, yielding insights into optimal architectures and persistent challenges. 
 
-Please visit the competition websites for more details: [Overview](https://nail-hnu.github.io/EvSLAM/index.html) and [Submission](https://www.codabench.org/competitions/9407/)
+Please visit the challenge websites for more details: [Overview](https://nail-hnu.github.io/EvSLAM/index.html) and [Submission](https://www.codabench.org/competitions/9407/)
 
-Any questions about the competition can be directed at <a href="mailto:junkainiu@hnu.edu.cn">junkainiu@hnu.edu.cn</a>.
+Any questions about the challenge can be directed at <a href="mailto:junkainiu@hnu.edu.cn">junkainiu@hnu.edu.cn</a>.
 
 # Workshop Organizers
 <div style="text-align: center;">
@@ -338,61 +359,3 @@ Any questions about the competition can be directed at <a href="mailto:junkainiu
 | Dr.Jianhao Jiao | [jiaojh1994(at))gmail(dot)com](mailto:jiaojh1994@gmail.com) | Website and advertising-related questions |
 | Dr.Yifu Wang | [usasuper(at)126(dot)com](mailto:usasuper@126.com) | Speaker information and program details |
 
-
-<!-- TBD -->
-<!-- ## Competition Organizers
-<div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
-    <tr>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"><br><strong>Jan Faigl</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="max-width: 80px; height: auto;"><br><strong>Gerald Steinbauer-Wagner</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"><br><strong>Miloš Prágr</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns</strong>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="max-width: 80px; height: auto;"><br><strong>Vladimír Kubelka</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"><br><strong>Peter Mortimer</strong>
-      </td>
-    </tr>
-  </table>
-</div> -->
-
-
-<!-- # Call for papers
-
-The workshop topics include, but are not limited to:
-
-- Agriculture
-- Construction
-- Forestry
-- Healthcare
-- Intelligent Transportation Systems
-- Marine Robotics
-- Mining
-- Search and rescue
-- Space exploration
-
-## Submission guidelines
-
-FR workshop accepts contributions based on the following criteria:
-
-- The submission should be from 2 to 8 pages long. The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
-- The review process is single-blind.
-- Submissions should contain a clear focus on field robotics and feature lessons learned and/or field experience reports.
-- We welcome prospective and conceptual papers as well.
-- The papers should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
-- Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop. -->
