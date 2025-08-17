@@ -359,11 +359,11 @@ Any questions about the challenge can be directed at <a href="mailto:junkainiu@h
   <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
     <tr>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/sponsor/logo_synsense.png" alt="SyncSense" style="max-width: auto; height: 100px;"><br>
+        <img src="images/organizers/logo_synsense.png" alt="SyncSense" style="max-width: auto; height: 100px;"><br>
         <strong>SyncSense</strong><br>
       </td>
       <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
-        <img src="images/sponsor/logo_inivation.jpg" alt="IniVation" style="max-width: auto; height: 100px;"><br>
+        <img src="images/organizers/logo_inivation.jpg" alt="IniVation" style="max-width: auto; height: 100px;"><br>
         <strong>IniVation</strong><br>
       </td>
     </tr>
