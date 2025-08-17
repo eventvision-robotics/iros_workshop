@@ -8,6 +8,7 @@ Hangzhou International Expo Center, Room 301
   * Start Time: July 1, 2025
   * End Time: September 30, 2025
   * Winners announcement: October 1, 2025
+  * **Awards** - First Prize: 3K RMB; Second Prize: 2K RMB; Third Prize: 1K RMB.
 * Workshop date: October 20, 2025
 
 
@@ -246,7 +247,9 @@ We introduce a benchmarking framework for the task of **event-based state estima
 
 This framework is instantiated through an **IROS 2025 Workshop Challenge** that benchmarks state-of-the-art methods, yielding insights into optimal architectures and persistent challenges. 
 
-Please visit the challenge websites for more details: [Overview](https://nail-hnu.github.io/EvSLAM/index.html) and [Submission](https://www.codabench.org/competitions/9407/)
+Please visit the challenge websites for more details: [Overview](https://nail-hnu.github.io/EvSLAM/index.html) and [Submission](https://www.codabench.org/competitions/9407/).
+
+**Cash Awards** - First Prize: 3K RMB; Second Prize: 2K RMB; Third Prize: 1K RMB.
 
 Any questions about the challenge can be directed at <a href="mailto:junkainiu@hnu.edu.cn">junkainiu@hnu.edu.cn</a>.
 
@@ -346,6 +349,22 @@ Any questions about the challenge can be directed at <a href="mailto:junkainiu@h
         <strong>(Advisory Board)</strong><br>
         <em>TU Berlin, Robotic Interactive Perception Lab</em><br>
         <a href="https://www.digital-future.berlin/en/about-us/professors/prof-dr-guillermo-gallego/">Personal website</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+# Sponsor
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
+    <tr>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/sponsor/logo_synsense.png" alt="SyncSense" style="max-width: auto; height: 100px;"><br>
+        <strong>SyncSense</strong><br>
+      </td>
+      <td style="width: 200px; vertical-align: top; height: auto; border: none; padding: 5px;">
+        <img src="images/sponsor/logo_inivation.jpg" alt="IniVation" style="max-width: auto; height: 100px;"><br>
+        <strong>IniVation</strong><br>
       </td>
     </tr>
   </table>
