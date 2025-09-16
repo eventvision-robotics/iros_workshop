@@ -153,6 +153,9 @@ end speaker1-->
       <p>TBD</p>
     </details>    
 </div>
+<div style="clear:left;">
+</div>
+<br>
 
 <div class="container">
     <div class="image">
