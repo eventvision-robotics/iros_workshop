@@ -39,7 +39,7 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **14:00pm–14:20pm** | Prof. Yuchao Dai | *Event Camera Vision: Motion Perception and Generation* |
 | **14:20pm–14:35pm** | Dr. Ning Qiao (CEO of SynSense) | *Neuromorphic Sensing and Computing Empowering Industrial Intelligence* |
 | **14:35pm–14:50pm** | Dr. Min Liu (CEO of Dvsense) | *Revolutionizing Vision with Event Cameras: Insights from an Industry Startup* |
-| **14:50pm–15:20pm** | - | Tea Break and Poster Presentation |
+| **14:50pm–15:20pm** | - | Tea Break |
 | **15:20pm–15:40pm** | Prof. Yu Lei | *Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions* |
 | **15:40pm–16:00pm** | Prof. Jinshan Pan | *Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions* |
 | **16:00pm–16:15pm** | Prof. Yulia Sandamirskaya | *Neuromorphic Computing: From Theory to Applications* |
