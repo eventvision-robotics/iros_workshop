@@ -33,13 +33,13 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 # Program
 | **Time** | **Speaker** | **Topic/Title** |
 | :--- | :--- | :--- |
-| **13:00pm-13:10pm** | Organizers | Welcome Talk - Introduction of the Workshop |
-| **13:10pm-13:35pm** | Prof. Tobias Fischer | Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks |
-| **13:35pm-14:00pm** | Prof. Yuchao Dai | Event Camera Vision: Motion Perception and Generation |
-| **14:00pm-14:25pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
-| **14:25pm-14:40pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
-| **14:40pm-14:55pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
-| **14:55pm-15:30pm** | – | Tea Break |
+| **13:00pm-13:05pm** | Organizers | Welcome Talk - Introduction of the Workshop |
+| **13:05pm-13:30pm** | Prof. Tobias Fischer | Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks |
+| **13:30pm-13:55pm** | Prof. Yuchao Dai | Event Camera Vision: Motion Perception and Generation |
+| **13:55pm-14:20pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
+| **14:20pm-14:40pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
+| **14:40pm-15:00pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
+| **15:00pm-15:30pm** | - | Tea Break |
 | **15:30pm-15:55pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
 | **15:55pm-16:20pm** | Prof. Yulia Sandamirskaya | Neuromorphic Computing: From Theory to Applications |
 | **16:20pm-16:45pm** | Prof. Kuk-Jin Yoon | Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding |
@@ -47,7 +47,7 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **16:55pm-17:00pm** | Organizers | Awards Ceremony |
 | **17:00pm-17:15pm** | Winner | Winner Presentation |
 | **17:15pm-17:45pm** | Panelists | Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production |
-| **17:45pm** | – | End |
+| **17:45pm** | - | End |
 
 **Note**: All times are in the local time zone of IROS 2025 (Beijing).
 
