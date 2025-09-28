@@ -31,29 +31,25 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 
 <!-- All invited speakers are confirmed. -->
 # Program
-
 | **Time** | **Speaker** | **Topic/Title** |
 | :--- | :--- | :--- |
-| **13:30pm-13:40pm** | Organizers | Welcome Talk - Introduction of the workshop |
-| **13:40pm–14:00pm** | Prof. Tobias Fischer | *Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks* |
-| **14:00pm–14:20pm** | Prof. Yuchao Dai | *Event Camera Vision: Motion Perception and Generation* |
-| **14:20pm–14:35pm** | Dr. Ning Qiao (CEO of SynSense) | *Neuromorphic Sensing and Computing Empowering Industrial Intelligence* |
-| **14:35pm–14:50pm** | Dr. Min Liu (CEO of Dvsense) | *Revolutionizing Vision with Event Cameras: Insights from an Industry Startup* |
-| **14:50pm–15:20pm** | - | Tea Break |
-| **15:20pm–15:40pm** | Prof. Yu Lei | *Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions* |
-| **15:40pm–16:00pm** | Prof. Jinshan Pan | *Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions* |
-| **16:00pm–16:15pm** | Prof. Yulia Sandamirskaya | *Neuromorphic Computing: From Theory to Applications* |
-| **16:15pm–16:30pm** | Prof. Kuk-Jin Yoon | *Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding* |
-| **16:30pm–16:40pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
-| **16:40pm–16:45pm** | Organizers | Awards Ceremony |
-| **16:45pm–17:00pm** | Winner | Winner Presentation |
-| **17:00pm–17:30pm** | Panelists | *Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production* |
-| **17:30pm** | - | End |
-
-
+| **13:00pm-13:10pm** | Organizers | Welcome Talk - Introduction of the Workshop |
+| **13:10pm-13:35pm** | Prof. Tobias Fischer | *Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks* |
+| **13:35pm-14:00pm** | Prof. Yuchao Dai | *Event Camera Vision: Motion Perception and Generation* |
+| **14:00pm-14:25pm** | Prof. Yu Lei | *Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions* |
+| **14:25pm-14:40pm** | Dr. Min Liu (CEO of Dvsense) | *Revolutionizing Vision with Event Cameras: Insights from an Industry Startup* |
+| **14:40pm-14:55pm** | Dr. Ning Qiao (CEO of SynSense) | *Neuromorphic Sensing and Computing Empowering Industrial Intelligence* |
+| **14:55pm-15:30pm** | – | Tea Break |
+| **15:30pm-15:55pm** | Prof. Jinshan Pan | *Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions* |
+| **15:55pm-16:20pm** | Prof. Yulia Sandamirskaya | *Neuromorphic Computing: From Theory to Applications* |
+| **16:20pm-16:45pm** | Prof. Kuk-Jin Yoon | *Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding* |
+| **16:45pm-16:55pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
+| **16:55pm-17:00pm** | Organizers | Awards Ceremony |
+| **17:00pm-17:15pm** | Winner | Winner Presentation |
+| **17:15pm-17:45pm** | Panelists | *Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production* |
+| **17:45pm** | – | End |
 
 **Note**: All times are in the local time zone of IROS 2025 (Beijing).
-
 
 
 # Speakers  
@@ -121,16 +117,16 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/ning_qiao.jpeg" alt="Image" width="140" />
+         src="images/speakers/lei_yu.jpeg" alt="Image" width="140" />
     </div>
     <div class="text">
-      <h3>Neuromorphic Sensing and Computing Empowering Industrial Intelligence</h3>
-      <strong>Ning Qiao, CEO of SynSense</strong><br/>
-      <a href="https://scholar.google.com/citations?user=e7FIdOMAAAAJ&hl=en">Personal website</a>
+      <h3>How to Integrate Asynchronous Events in Our Imaging Pipeline?</h3>
+      <strong>Lei Yu, Wuhan University</strong><br/>
+      <a href="http://dvs-whu.cn/">Personal website</a>
     </div>
     <details>
       <summary>Abstact</summary>
-      <p>TBD</p>
+      <p>We explore the integration of asynchronous event-based vision with traditional imaging pipelines to enhance visual perception capabilities. Event cameras, which capture pixel-level brightness changes asynchronously with microsecond temporal resolution, offer significant advantages over conventional frame-based cameras in challenging scenarios such as high-speed motion, extreme lighting conditions, and power-constrained environments. We present novel methodologies for seamlessly incorporating event data into existing imaging systems, including aperture synthesis, auto-focusing, shutter control, and post-processing fusion. Our approach demonstrates substantial improvements across all components of the imaging system and exhibits significant potential for downstream tasks including tracking and scene reconstruction, particularly in scenarios where traditional cameras struggle. We will discuss the key challenges and future perspectives for developing next-generation computer vision systems that can leverage the complementary strengths of both event-based and frame-based sensing modalities.</p>
     </details>        
 </div>
 <div style="clear:left;">
@@ -161,16 +157,16 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/lei_yu.jpeg" alt="Image" width="140" />
+         src="images/speakers/ning_qiao.jpeg" alt="Image" width="140" />
     </div>
     <div class="text">
-      <h3>How to Integrate Asynchronous Events in Our Imaging Pipeline?</h3>
-      <strong>Lei Yu, Wuhan University</strong><br/>
-      <a href="http://dvs-whu.cn/">Personal website</a>
+      <h3>Neuromorphic Sensing and Computing Empowering Industrial Intelligence</h3>
+      <strong>Ning Qiao, CEO of SynSense</strong><br/>
+      <a href="https://scholar.google.com/citations?user=e7FIdOMAAAAJ&hl=en">Personal website</a>
     </div>
     <details>
       <summary>Abstact</summary>
-      <p>We explore the integration of asynchronous event-based vision with traditional imaging pipelines to enhance visual perception capabilities. Event cameras, which capture pixel-level brightness changes asynchronously with microsecond temporal resolution, offer significant advantages over conventional frame-based cameras in challenging scenarios such as high-speed motion, extreme lighting conditions, and power-constrained environments. We present novel methodologies for seamlessly incorporating event data into existing imaging systems, including aperture synthesis, auto-focusing, shutter control, and post-processing fusion. Our approach demonstrates substantial improvements across all components of the imaging system and exhibits significant potential for downstream tasks including tracking and scene reconstruction, particularly in scenarios where traditional cameras struggle. We will discuss the key challenges and future perspectives for developing next-generation computer vision systems that can leverage the complementary strengths of both event-based and frame-based sensing modalities.</p>
+      <p>TBD</p>
     </details>        
 </div>
 <div style="clear:left;">
