@@ -106,7 +106,7 @@ end speaker1-->
     </div>
     <details>
       <summary>Abstact</summary>
-      <p>TBD</p>
+      <p>As a new type of neuromorphic vision sensor, the event camera asynchronously responds to pixel-level brightness changes, breaking through the limitations of traditional frame-based cameras in high-speed motion and high-dynamic-range scenarios. Event cameras show great potential in fields such as autonomous driving, robot navigation, military defense, deep space exploration, and high-speed industrial inspection. This talk focuses on our research group's work in event camera-based motion perception and generation, covering sub-tasks such as 2D and 3D motion estimation, long-term point trajectory tracking, moving object tracking and segmentation, video frame generation, and novel view synthesis. The goal is to overcome existing perception bottlenecks of frame-based cameras and demonstrate the potential of event cameras for perception and generation in complex dynamic scenes.</p>
     </details>        
 </div>
 <div style="clear:left;">
