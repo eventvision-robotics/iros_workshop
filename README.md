@@ -191,50 +191,6 @@ end speaker1-->
 <div style="clear:left;">
 </div>
 <br>
-<!--
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/yulia.png" alt="Image" width="140" />
-    </div>
-    <div class="text">
-      <h3>Neuromorphic Computing: From Theory to Applications</h3>
-      <strong>Yulia Sandamirskaya, Zurich University of Applied Sciences</strong><br/>
-      <a href="https://sandamirskaya.eu/">Personal website</a>
-    </div>
-    <details>
-      <summary>Abstact</summary>
-      <p>TBD</p>
-    </details>        
-</div>
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/kukjin_yoon.jpeg" alt="Image" width="140" />
-    </div>
-    <div class="text">
-      <h3>Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding</h3>
-      <strong>Kuk-Jin Yoon, Korea Advanced Institute of Science & Technology (KAIST)</strong><br/>
-      <a href="http://vi.kaist.ac.kr/">Personal website</a>
-    </div>
-    <details>
-      <summary>Abstact</summary>
-      <p>TBD</p>
-    </details>        
-</div>
-<div style="clear:left;">
-</div>
-<br>
-<div style="clear:left;">
-</div>
-<br>
--->
 
 # Event SLAM Challenge
 
