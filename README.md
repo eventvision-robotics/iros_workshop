@@ -231,10 +231,10 @@ end speaker1-->
 <div style="clear:left;">
 </div>
 <br>
--->
 <div style="clear:left;">
 </div>
 <br>
+-->
 
 # Event SLAM Challenge
 
