@@ -42,13 +42,11 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **14:40pm–15:00pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
 | **15:00pm–15:30pm** | - | Tea Break |
 | **15:30pm–15:55pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
-| **15:55pm–16:20pm** | Prof. Yulia Sandamirskaya | Neuromorphic Computing: From Theory to Applications |
-| **16:20pm–16:45pm** | Prof. Kuk-Jin Yoon | Multi-Modal Fusion in Computer Vision: Leveraging Event Data for Enhanced Object Detection and Scene Understanding |
-| **16:45pm–16:55pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
-| **16:55pm–17:00pm** | Organizers | Awards Ceremony |
-| **17:00pm–17:15pm** | Winner | Winner Presentation |
-| **17:15pm–17:45pm** | Panelists | Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production |
-| **17:45pm** | - | End |
+| **15:55pm–16:05pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
+| **16:05pm–16:10pm** | Organizers | Awards Ceremony |
+| **16:10pm–17:10pm** | Winner | Winner Presentation |
+| **17:10pm–17:40pm** | Panelists | Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production |
+| **17:40pm** | - | End |
 
 **Note**: All times are in the local time zone of IROS 2025 (Beijing).
 
