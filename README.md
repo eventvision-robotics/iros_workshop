@@ -35,18 +35,19 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **Time** | **Speaker** | **Topic/Title** |
 | :--- | :--- | :--- |
 | **13:00pm–13:05pm** | Organizers | Welcome Talk - Introduction of the Workshop |
-| **13:05pm–13:30pm** | Prof. Tobias Fischer | Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks |
-| **13:30pm–13:55pm** | Prof. Yuchao Dai | Event Camera Vision: Motion Perception and Generation |
-| **13:55pm–14:20pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
-| **14:20pm–14:40pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
-| **14:40pm–15:00pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
-| **15:00pm–15:30pm** | - | Tea Break |
-| **15:30pm–15:55pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
-| **15:55pm–16:05pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
-| **16:05pm–16:10pm** | Organizers | Awards Ceremony |
-| **16:10pm–17:10pm** | Winner | Winner Presentation |
-| **17:10pm–17:40pm** | Panelists | Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production |
-| **17:40pm** | - | End |
+| **13:05pm–13:35pm** | Prof. Tobias Fischer | Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks |
+| **13:35pm–14:05pm** | Prof. Yuchao Dai | Event Camera Vision: Motion Perception and Generation |
+| **14:05pm–14:35pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
+| **14:35pm–15:05pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
+| **15:05pm–15:30pm** | - | Tea Break |
+| **15:30pm–16:00pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
+| **16:00pm–16:30pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
+| **16:30pm–16:40pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
+| **16:40pm–16:45pm** | Organizers | Awards Ceremony |
+| **16:45pm–17:35pm** | Winner | Winner Presentation |
+| **17:35pm–18:05pm** | Panelists | Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production |
+| **18:05pm** | - | End |
+
 
 **Note**: All times are in the local time zone of IROS 2025 (Beijing).
 
