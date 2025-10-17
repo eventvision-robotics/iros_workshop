@@ -42,10 +42,10 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **15:05pm–15:30pm** | - | Tea Break |
 | **15:30pm–16:00pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
 | **16:00pm–16:30pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
-| **16:30pm–16:40pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
-| **16:40pm–16:45pm** | Organizers | Awards Ceremony |
-| **16:45pm–17:35pm** | Winner | Winner Presentation |
-| **17:35pm–18:05pm** | Panelists | Community Dilemma: High Event Camera Costs vs. Limited Adoption Hindering Growth and Mass Production |
+| **16:30pm–17:00pm** | Prof. Laurent Kneip | Event-based vision meets multiple-view geometry |
+| **17:00pm–17:10pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
+| **17:10pm–17:15pm** | Organizers | Awards Ceremony |
+| **17:15pm–18:05pm** | Winner | Winner Presentation |
 | **18:05pm** | - | End |
 
 
