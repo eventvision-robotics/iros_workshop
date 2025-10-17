@@ -37,10 +37,10 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **13:00pm–13:05pm** | Organizers | Welcome Talk - Introduction of the Workshop |
 | **13:05pm–13:35pm** | Prof. Tobias Fischer | Localizing Faster and Sooner: Adventures in Event Cameras and Spiking Neural Networks |
 | **13:35pm–14:05pm** | Prof. Yuchao Dai | Event Camera Vision: Motion Perception and Generation |
-| **14:05pm–14:35pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
-| **14:35pm–15:05pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
+| **14:05pm–14:35pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
+| **14:35pm–15:05pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
 | **15:05pm–15:30pm** | - | Tea Break |
-| **15:30pm–16:00pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
+| **15:30pm–16:00pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
 | **16:00pm–16:30pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
 | **16:30pm–16:40pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
 | **16:40pm–16:45pm** | Organizers | Awards Ceremony |
