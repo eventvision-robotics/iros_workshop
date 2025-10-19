@@ -40,7 +40,7 @@ This workshop builds on the tradition of inviting pioneering figures in the comm
 | **14:05pm–14:35pm** | Dr. Min Liu (CEO of Dvsense) | Revolutionizing Vision with Event Cameras: Insights from an Industry Startup |
 | **14:35pm–15:05pm** | Dr. Ning Qiao (CEO of SynSense) | Neuromorphic Sensing and Computing Empowering Industrial Intelligence |
 | **15:05pm–15:30pm** | - | Tea Break |
-| **15:30pm–16:00pm** | Prof. Yu Lei | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
+| **15:30pm–16:00pm** | Prof. Lei Yu | Integrating Asynchronous Event Data with New Deep Learning Models: Challenges, Techniques, and Future Directions |
 | **16:00pm–16:30pm** | Prof. Jinshan Pan | Event-Based Imaging: Advancements in Enhancing Visual Perception under Challenging Conditions |
 | **16:30pm–17:00pm** | Prof. Laurent Kneip | Event-based Vision Meets Multiple-View Geometry |
 | **17:00pm–17:10pm** | Organizers | Intro of Event-based SLAM Challenge: Background, Setup |
