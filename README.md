@@ -117,26 +117,6 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/lei_yu.jpeg" alt="Image" width="140" />
-    </div>
-    <div class="text">
-      <h3>How to Integrate Asynchronous Events in Our Imaging Pipeline?</h3>
-      <strong>Lei Yu, Wuhan University</strong><br/>
-      <a href="http://dvs-whu.cn/">Personal website</a>
-    </div>
-    <details>
-      <summary>Abstact</summary>
-      <p>We explore the integration of asynchronous event-based vision with traditional imaging pipelines to enhance visual perception capabilities. Event cameras, which capture pixel-level brightness changes asynchronously with microsecond temporal resolution, offer significant advantages over conventional frame-based cameras in challenging scenarios such as high-speed motion, extreme lighting conditions, and power-constrained environments. We present novel methodologies for seamlessly incorporating event data into existing imaging systems, including aperture synthesis, auto-focusing, shutter control, and post-processing fusion. Our approach demonstrates substantial improvements across all components of the imaging system and exhibits significant potential for downstream tasks including tracking and scene reconstruction, particularly in scenarios where traditional cameras struggle. We will discuss the key challenges and future perspectives for developing next-generation computer vision systems that can leverage the complementary strengths of both event-based and frame-based sensing modalities.</p>
-    </details>        
-</div>
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
          src="images/speakers/min_liu.jpeg" alt="Image" width="140" />
     </div>
     <div class="text">
@@ -177,6 +157,26 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
+         src="images/speakers/lei_yu.jpeg" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>How to Integrate Asynchronous Events in Our Imaging Pipeline?</h3>
+      <strong>Lei Yu, Wuhan University</strong><br/>
+      <a href="http://dvs-whu.cn/">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p>We explore the integration of asynchronous event-based vision with traditional imaging pipelines to enhance visual perception capabilities. Event cameras, which capture pixel-level brightness changes asynchronously with microsecond temporal resolution, offer significant advantages over conventional frame-based cameras in challenging scenarios such as high-speed motion, extreme lighting conditions, and power-constrained environments. We present novel methodologies for seamlessly incorporating event data into existing imaging systems, including aperture synthesis, auto-focusing, shutter control, and post-processing fusion. Our approach demonstrates substantial improvements across all components of the imaging system and exhibits significant potential for downstream tasks including tracking and scene reconstruction, particularly in scenarios where traditional cameras struggle. We will discuss the key challenges and future perspectives for developing next-generation computer vision systems that can leverage the complementary strengths of both event-based and frame-based sensing modalities.</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
          src="images/speakers/jspan_photo.jpg" alt="Image" width="140" />
     </div>
     <div class="text">
@@ -187,6 +187,26 @@ end speaker1-->
     <details>
       <summary>Abstact</summary>
       <p>TBD</p>
+    </details>        
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/organizers/laurent_kneip.jpeg" alt="Image" width="140" />
+    </div>
+    <div class="text">
+      <h3>Event-based Vision Meets Multiple-view Geometry</h3>
+      <strong>Laurent Kneip, ShanghaiTech University</strong><br/>
+      <a href="https://scholar.google.com/citations?user=lTmh1e0AAAAJ&hl=zh-TW">Personal website</a>
+    </div>
+    <details>
+      <summary>Abstact</summary>
+      <p></p>
     </details>        
 </div>
 <div style="clear:left;">
